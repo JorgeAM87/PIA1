@@ -4,7 +4,6 @@
     <head>
         <meta charset="UTF-8">
         <title>INTRODUCCIÓN A LA PROGRAMACIÓN DE INTELIGENCIA ARTIFICIAL</title>
-        <link rel="icon" href="../imagenes/icon.png" type="image/gif" sizes="16x16">
     </head>
     <body>
         <h1>Tarea 1</h1>
