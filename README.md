@@ -3,7 +3,7 @@
 <html lang="es-ES">
     <head>
         <meta charset="UTF-8">
-        <title>INTRODUCCIÓN A LA PROGRAMACIÓN DE INTELIGENCIA ARTIFICIAL</title>
+        INTRODUCCIÓN A LA PROGRAMACIÓN DE INTELIGENCIA ARTIFICIAL.
     </head>
     <body>
         <h1>Tarea 1</h1>
