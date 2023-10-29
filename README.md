@@ -12,4 +12,3 @@
     </body>
    <img src="https://github.com/JorgeAM87/PIA1/assets/149318266/6c57798f-96a6-4f77-860d-ca92a3576b8d">
 </html>
-![3](https://github.com/JorgeAM87/PIA1/assets/149318266/6c57798f-96a6-4f77-860d-ca92a3576b8d)
